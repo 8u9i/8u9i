@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @8u9i
 - 👀 I’m interested in learning PY language.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on twitter.
+- 💞️ I’m looking to collaborate on discord.
 - 📫 How to reach me insta
 
 <!---
