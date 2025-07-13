@@ -7,12 +7,14 @@ Whether you stumbled in by accident or you’re here on purpose, I’m glad you�
 
 ## 👨‍💻 About Me
 
-Hi! I’m 8u9i — a curious coder, lifelong learner, and someone who genuinely enjoys building cool things with code.  
+Hi! I’m 8u9i — an ECE engineer at SQU and a passionate web developer.  
+I love fixing issues, designing websites, and organizing things, all while keeping up to date with the latest in tech.  
 I believe in sharing knowledge, collaborating with others, and writing code that solves real problems (or sometimes just for fun!).
 
 - 🌱 Always learning: tech, tools, and anything that sparks my curiosity.
 - 🤝 Happy to connect, collaborate, or just chat about ideas.
 - 💡 Motto: “Build with passion. Learn with humility.”
+- 🛠️ Favorite qoute: "من حسن إسلام المرء تركه ما لا يعنيه"
 
 ---
 
@@ -20,19 +22,18 @@ I believe in sharing knowledge, collaborating with others, and writing code that
 
 Here’s some of what I tinker with most days:
 
-- Languages: Python, JavaScript, Go, (plus more as I go!)
+- Languages: Python, JavaScript, Go (plus more as I go!)
 - Frameworks: React, Node.js, Django
 - Tools: Git, Docker, Linux, VS Code
+- Skills: Fixing issues, designing websites, organizing things, staying up to date technically
 - And always exploring new tech!
 
 ---
 
 ## 🚀 Projects I’m Proud Of
 
-<!-- Add your favorites here! -->
-
-- [Project Name](#) — Why I loved working on this.
-- [Another Project](#) — Something fun or impactful.
+- [aisqucoffe project](#) — A project I’m excited about!
+- [My Portfolio](#) — Showcasing my work & passion.
 
 ---
 
@@ -40,9 +41,9 @@ Here’s some of what I tinker with most days:
 
 When I’m not at the keyboard, you might find me:
 
-- Reading sci-fi or tech blogs
-- Exploring nature and hiking trails
-- Tinkering with gadgets
+- Reading Quran & books
+- Searching for new things
+- Helping others
 - Or brewing a perfect cup of coffee ☕
 
 ---
@@ -55,25 +56,11 @@ When I’m not at the keyboard, you might find me:
 
 ## 🌐 Let’s Connect!
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn](#)
-- 🌍 Website: [yourwebsite.com](#)
+- 🌍 Website: [quitee-om.me](https://quitee-om.me)
+- 💼 LinkedIn: [qusaiallezamisqu](https://www.linkedin.com/in/qusaiallezamisqu)
+- 📷 Instagram: [quitee_om](https://www.instagram.com/quitee_om/)
 
 ---
 
 Thanks for stopping by! If you’ve got a project, idea, or just want to say hi, my inbox is always open.  
 Let’s make something awesome together!
-
-```
-
----
-
-To personalize this and really make it “you,” could you share:
-- Your profession or what you do (student, developer, etc.)?
-- Your top skills or favorite tech?
-- Any specific projects you want to highlight?
-- Hobbies or interests outside of coding?
-- Social links (LinkedIn, website, etc.)?
-- Anything quirky or uniquely “you” to add (fun fact, motto, favorite quote)?
-
-Your answers will help me tailor a README that truly reflects your personality!
