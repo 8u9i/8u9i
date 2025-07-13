@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm 8u9i!
+# 👋 Hey there, I'm Qusai Al-lezami!
 
 Welcome to my little corner of GitHub!  
 Whether you stumbled in by accident or you’re here on purpose, I’m glad you’re visiting.
