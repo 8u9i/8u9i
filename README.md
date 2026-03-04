@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Qusai Al-lezami!
+# 👋 Hey there, I'm Lonely Wolf!
 
 Welcome to my little corner of GitHub!  
 Whether you stumbled in by accident or you’re here on purpose, I’m glad you’re visiting.
@@ -7,7 +7,7 @@ Whether you stumbled in by accident or you’re here on purpose, I’m glad you�
 
 ## 👨‍💻 About Me
 
-Hi! I’m 8u9i — an ECE engineer at SQU and a passionate web developer.  
+Hi! I’m Lonely Wolf — an ECE engineer at SQU and a passionate web developer.  
 I love fixing issues, designing websites, and organizing things, all while keeping up to date with the latest in tech.  
 I believe in sharing knowledge, collaborating with others, and writing code that solves real problems (or sometimes just for fun!).
 
