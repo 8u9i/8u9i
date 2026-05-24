@@ -1,66 +1,43 @@
-# 👋 Hey there, I'm Lonely Wolf!
+# Lonely Wolf
 
-Welcome to my little corner of GitHub!  
-Whether you stumbled in by accident or you’re here on purpose, I’m glad you’re visiting.
-
----
-
-## 👨‍💻 About Me
-
-Hi! I’m Lonely Wolf — an ECE engineer at SQU and a passionate web developer.  
-I love fixing issues, designing websites, and organizing things, all while keeping up to date with the latest in tech.  
-I believe in sharing knowledge, collaborating with others, and writing code that solves real problems (or sometimes just for fun!).
-
-- 🌱 Always learning: tech, tools, and anything that sparks my curiosity.
-- 🤝 Happy to connect, collaborate, or just chat about ideas.
-- 💡 Motto: “Build with passion. Learn with humility.”
-- 🛠️ Favorite qoute: "من حسن إسلام المرء تركه ما لا يعنيه"
+ECE engineer. Web developer. Quiet builder of things that work.
 
 ---
 
-## 🛠️ My Toolbox
+## About
 
-Here’s some of what I tinker with most days:
+I fix things, design interfaces, and write code — sometimes to solve real problems, sometimes just because the problem is interesting. I care about clean logic, readable systems, and work that holds up over time.
 
-- Languages: Python, JavaScript, Go (plus more as I go!)
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, Linux, VS Code
-- Skills: Fixing issues, designing websites, organizing things, staying up to date technically
-- And always exploring new tech!
+- Always learning — tools, patterns, anything that earns curiosity
+- Open to collaborating or just exchanging ideas
+- Building with intention, not noise
 
----
-
-## 🚀 Projects I’m Proud Of
-
-- [aisqucoffe project](#) — A project I’m excited about!
-- [My Portfolio](#) — Showcasing my work & passion.
+> "من حسن إسلام المرء تركه ما لا يعنيه"
+>
+> *Build with passion. Learn with humility.*
 
 ---
 
-## 🌱 Outside of Code
+## Stack
 
-When I’m not at the keyboard, you might find me:
-
-- Reading Quran & books
-- Searching for new things
-- Helping others
-- Or brewing a perfect cup of coffee ☕
+`Python`  `Linux` `AI` `Sleep-coding`
 
 ---
 
-## 📈 GitHub Stats
+## Projects
 
-![8u9i's GitHub Stats](https://github-readme-stats.vercel.app/api?username=8u9i&show_icons=true&theme=radical)
-
----
-
-## 🌐 Let’s Connect!
-
-- 🌍 Website: [quitee-om.me](https://quitee-om.me)
-- 💼 LinkedIn: [qusaiallezamisqu](https://www.linkedin.com/in/qusaiallezamisqu)
-- 📷 Instagram: [quitee_om](https://www.instagram.com/quitee_om/)
+- **Squcoffee-ai** — a project I'm quietly proud of that helps SQU students a lot!
+- **portfolio** — work and craft, ongoing
 
 ---
 
-Thanks for stopping by! If you’ve got a project, idea, or just want to say hi, my inbox is always open.  
-Let’s make something awesome together!
+## Outside the screen
+
+- Quran & books
+- Chasing rabbit holes
+- Helping where I can
+
+
+---
+
+If you've got a project, a question, or just want to say something — the inbox is open. Let's make something worth making.
